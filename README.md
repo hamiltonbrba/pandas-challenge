@@ -5,6 +5,12 @@ Module 4 Challenge - Pandas
 This project aims to analyze the performance metrics of a school district, providing insights into various factors impacting student achievement. By examining district-wide averages, school-specific data, and performance across different spending ranges, school sizes, and school types, we identify key trends and draw meaningful conclusions.
 
 ## Project Structure
+The project is organized as follows:
+
+- 'Resources/': Contains the original CSV files for schools and students data.
+- 'Summary Results/': Contains the generated summary CSV files.
+- 'school_data_analysis.ipynb': Jupyter notebook with the code for data analysis.
+- 'README.md': Project documentation (this file).
 
 ## Generated Summary Files
 The following summary files are generated and saved in the 'Summary Results' folder:
