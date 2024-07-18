@@ -1,12 +1,12 @@
 # pandas-challenge
 Module 4 Challenge - Pandas
 **School District Performance Analysis**
-##Overview
+## Overview
 This project aims to analyze the performance metrics of a school district, providing insights into various factors impacting student achievement. By examining district-wide averages, school-specific data, and performance across different spending ranges, school sizes, and school types, we identify key trends and draw meaningful conclusions.
 
-##Project Structure
+## Project Structure
 
-##Generated Summary Files
+## Generated Summary Files
 The following summary files are generated and saved in the 'Summary Results' folder:
 
 district_summary.csv: Overall district performance metrics.
@@ -19,5 +19,5 @@ spending_summary.csv: School performance based on spending ranges.
 size_summary.csv: School performance based on school size.
 type_summary.csv: School performance based on school type.
 
-##Analysis and Findings
+## Analysis and Findings
 The analysis provided comprehensive insights into the factors influencing student achievement. Key findings include:
