@@ -30,7 +30,5 @@ The analysis provided comprehensive insights into the factors influencing studen
 
 Spending and Performance:
 
-1. Schools with higher spending per student tend to have higher average math and reading scores and better overall passing percentages, indicating a positive correlation between spending and academic performance.
-School Size and Performance:
-
-2. Smaller schools (with fewer than 1,000 students) generally outperform larger schools, showcasing higher average scores and passing rates. This suggests that smaller school sizes may contribute to a more focused and effective learning environment.
+1. Higher spending per student correlates with higher math and reading scores and better passing rates.
+2. Smaller schools (under 1,000 students) outperform larger ones, suggesting smaller sizes enhance learning.
