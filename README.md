@@ -27,3 +27,10 @@ The following summary files are generated and saved in the 'Summary Results' fol
 
 ## Analysis and Findings
 The analysis provided comprehensive insights into the factors influencing student achievement. Key findings include:
+
+Spending and Performance:
+
+1. Schools with higher spending per student tend to have higher average math and reading scores and better overall passing percentages, indicating a positive correlation between spending and academic performance.
+School Size and Performance:
+
+2. Smaller schools (with fewer than 1,000 students) generally outperform larger schools, showcasing higher average scores and passing rates. This suggests that smaller school sizes may contribute to a more focused and effective learning environment.
